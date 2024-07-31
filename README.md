@@ -1,2 +1,3 @@
-# guitar-raycast
-Guitar plugin for Raycast
+# Guitar
+
+A reference for guitar tabs, chords, scales, progressions and more
