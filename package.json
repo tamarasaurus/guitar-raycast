@@ -12,8 +12,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "Go to tab",
-      "description": "Search for a guitar tab",
+      "title": "Search guitar tab",
+      "description": "Search for a guitar tab on multiple sites",
       "mode": "view",
       "arguments": [
         {
@@ -21,7 +21,7 @@
           "description": "Song title or artist",
           "type": "text",
           "required": true,
-          "placeholder": "Enter a song title or artist"
+          "placeholder": "Song title or artist"
         }
       ]
     }
